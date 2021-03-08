@@ -25,6 +25,8 @@ These are the core results of the analysis
 * Commercial success in the 2010s is consistently more predictable than in the 1970s
 * High danceability, low energy, low acousticness (electronically produced) and low instrumentalness (high share of vocal content) are on average associated with commercial success in the music industry in the 2010s
 * The most common and commercially succesful genre in the 2010s was Dance Music (which is high on danceability, low on acousticness and instrumentalness; yet also high on energy)
+
+For a better overview of the analysis results check out my blog post on medium: knboerensen.medium.com/creating-the-next-chart-hit-using-data-3dabdb513f19
 ___
 
 ## Licensing, Authors and Acknowledgements
